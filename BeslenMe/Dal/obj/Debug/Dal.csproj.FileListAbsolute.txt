@@ -1,0 +1,150 @@
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\bin\Debug\Dal.dll.config
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\bin\Debug\Dal.dll
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\bin\Debug\Dal.pdb
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\bin\Debug\Data.dll
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\bin\Debug\Data.pdb
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\bin\Debug\Data.dll.config
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\obj\Debug\Dal.dll
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\Dal\obj\Debug\Dal.pdb
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\bin\Debug\Dal.dll.config
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\bin\Debug\Dal.dll
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\bin\Debug\Dal.pdb
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\bin\Debug\Data.dll
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\bin\Debug\EntityFramework.dll
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\bin\Debug\Data.pdb
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\bin\Debug\Data.dll.config
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\bin\Debug\EntityFramework.xml
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.dll
+C:\Users\bused\Downloads\BeslanMeSablonDeneme1\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.pdb
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\bin\Debug\Dal.dll.config
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\bin\Debug\Dal.dll
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\bin\Debug\Dal.pdb
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\bin\Debug\Data.dll
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\bin\Debug\Data.pdb
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\bin\Debug\Data.dll.config
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.dll
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.pdb
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\bin\Debug\Dal.dll.config
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\bin\Debug\Dal.dll
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\bin\Debug\Dal.pdb
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\bin\Debug\Data.dll
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\bin\Debug\Data.pdb
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\bin\Debug\Data.dll.config
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.dll
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\Dal\obj\Debug\Dal.pdb
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.dll.config
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.pdb
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.pdb
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.dll.config
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.xml
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.pdb
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.dll.config
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.pdb
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.pdb
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.dll.config
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.xml
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.pdb
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.dll.config
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.dll
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.pdb
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.dll
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.dll
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.pdb
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.dll.config
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.xml
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.dll
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.pdb
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.dll.config
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.dll
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.pdb
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.dll
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.dll
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.pdb
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.dll.config
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.xml
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.dll
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.pdb
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.dll.config
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.dll
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.pdb
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.dll
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.pdb
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.dll.config
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.dll
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.pdb
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.dll.config
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.dll
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\bin\Debug\Dal.pdb
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.dll
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.dll
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.pdb
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\bin\Debug\Data.dll.config
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.xml
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.dll
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\Dal\obj\Debug\Dal.pdb

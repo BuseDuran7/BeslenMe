@@ -1,0 +1,310 @@
+C:\Users\unequ\Desktop\BeslenMEUygulaması\BeslanMeSablon\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe.config
+C:\Users\unequ\Desktop\BeslenMEUygulaması\BeslanMeSablon\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe
+C:\Users\unequ\Desktop\BeslenMEUygulaması\BeslanMeSablon\BeslanMeSablon\bin\Debug\BeslanMeSablon.pdb
+C:\Users\unequ\Desktop\BeslenMEUygulaması\BeslanMeSablon\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.AssemblyReference.cache
+C:\Users\unequ\Desktop\BeslenMEUygulaması\BeslanMeSablon\BeslanMeSablon\obj\Debug\BeslanMeSablon.Properties.Resources.resources
+C:\Users\unequ\Desktop\BeslenMEUygulaması\BeslanMeSablon\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.GenerateResource.cache
+C:\Users\unequ\Desktop\BeslenMEUygulaması\BeslanMeSablon\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CoreCompileInputs.cache
+C:\Users\unequ\Desktop\BeslenMEUygulaması\BeslanMeSablon\BeslanMeSablon\obj\Debug\BeslanMeSablon.exe
+C:\Users\unequ\Desktop\BeslenMEUygulaması\BeslanMeSablon\BeslanMeSablon\obj\Debug\BeslanMeSablon.pdb
+C:\Users\unequ\Desktop\BeslenMEUygulaması\BeslanMeSablon\BeslanMeSablon\obj\Debug\BeslanMeSablon.Form1.resources
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\BeslanMeSablon\obj\Debug\BeslanMeSablon.Form1.resources
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\BeslanMeSablon\obj\Debug\BeslanMeSablon.Properties.Resources.resources
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\BeslanMeSablon\obj\Debug\BeslanMeSablon.exe
+C:\Users\admin\Desktop\BeslenMeCantam\BeslanMeSablon\BeslanMeSablon\obj\Debug\BeslanMeSablon.pdb
+C:\Users\unequ\Downloads\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe.config
+C:\Users\unequ\Downloads\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe
+C:\Users\unequ\Downloads\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\BeslanMeSablon.pdb
+C:\Users\unequ\Downloads\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.Main.resources
+C:\Users\unequ\Downloads\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon._09_Redefining.resources
+C:\Users\unequ\Downloads\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.Properties.Resources.resources
+C:\Users\unequ\Downloads\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlAddMeal.resources
+C:\Users\unequ\Downloads\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlCalcCalPage.resources
+C:\Users\unequ\Downloads\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlMainPage.resources
+C:\Users\unequ\Downloads\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.GenerateResource.cache
+C:\Users\unequ\Downloads\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CoreCompileInputs.cache
+C:\Users\unequ\Downloads\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.exe
+C:\Users\unequ\Downloads\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.pdb
+C:\Users\unequ\Downloads\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.Main.resources
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon._09_Redefining.resources
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.Properties.Resources.resources
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlAddMeal.resources
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlCalcCalPage.resources
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlMainPage.resources
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe.config
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\BeslanMeSablon.pdb
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\Dal.dll
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\Data.dll
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\Dal.pdb
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\Dal.dll.config
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\Data.pdb
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\Data.dll.config
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CopyComplete
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.exe
+C:\Users\admin\Desktop\Beslen_Me_Last\BeslanMeSablonDeneme2\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.pdb
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe.config
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\BeslanMeSablon.pdb
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\Dal.dll
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\Data.dll
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\Dal.pdb
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\Dal.dll.config
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\Data.pdb
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\Data.dll.config
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserEntrance.resources
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.Introduction.resources
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.SignUp.resources
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.Main.resources
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon._09_Redefining.resources
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.Properties.Resources.resources
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlAddMeal.resources
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlCalcCalPage.resources
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlGeneralReport.resources
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlMainPage.resources
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlPersonalReport.resources
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlUpdateİnfo.resources
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CopyComplete
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.exe
+C:\Users\admin\Desktop\Project_Last\BeslanMeSablonDeneme1\BeslanMeSablon\obj\Debug\BeslanMeSablon.pdb
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe.config
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\bin\Debug\BeslanMeSablon.pdb
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\bin\Debug\Dal.dll
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\bin\Debug\Data.dll
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\bin\Debug\Dal.pdb
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\bin\Debug\Dal.dll.config
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\bin\Debug\Data.pdb
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\bin\Debug\Data.dll.config
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserEntrance.resources
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon.Introduction.resources
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon.SignUp.resources
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon.Main.resources
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon._09_Redefining.resources
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon.Properties.Resources.resources
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlAddMeal.resources
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlCalcCalPage.resources
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlGeneralReport.resources
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlMainPage.resources
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlPersonalReport.resources
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlUpdateİnfo.resources
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CopyComplete
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon.exe
+C:\Users\admin\Desktop\BeslenMeSablon_24.08.22\BeslanMeSablon\obj\Debug\BeslanMeSablon.pdb
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe.config
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.pdb
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.pdb
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.dll.config
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.pdb
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.dll.config
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.xml
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.AssemblyReference.cache
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserEntrance.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Introduction.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.SignUp.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Main.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Properties.Resources.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlAddMeal.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlCalcCalPage.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlGeneralReport.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlMainPage.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlPersonalReport.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlUpdateİnfo.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.GenerateResource.cache
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CoreCompileInputs.cache
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CopyComplete
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.exe
+C:\Users\unequ\Downloads\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.pdb
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe.config
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.pdb
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.pdb
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.dll.config
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.pdb
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.dll.config
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.xml
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.AssemblyReference.cache
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserEntrance.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Introduction.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.SignUp.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Main.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Properties.Resources.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlAddMeal.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlCalcCalPage.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlGeneralReport.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlMainPage.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlPersonalReport.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlUpdateİnfo.resources
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.GenerateResource.cache
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CoreCompileInputs.cache
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CopyComplete
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.exe
+C:\Users\unequ\Downloads\BeslenMeSablon_250822_version_1 (1)\BeslenMeSablon_240822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.pdb
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.AssemblyReference.cache
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserEntrance.resources
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Introduction.resources
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.SignUp.resources
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Main.resources
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Properties.Resources.resources
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlAddMeal.resources
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlCalcCalPage.resources
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlGeneralReport.resources
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlMainPage.resources
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlPersonalReport.resources
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlUpdateİnfo.resources
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.GenerateResource.cache
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CoreCompileInputs.cache
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.exe
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.pdb
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe.config
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.pdb
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\CircularProgressBar.dll
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.dll
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.dll
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.dll
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\WinFormAnimation.dll
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.pdb
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.dll.config
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.pdb
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.dll.config
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\CircularProgressBar.xml
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.xml
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\unequ\Desktop\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CopyComplete
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe.config
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.pdb
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\CircularProgressBar.dll
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.dll
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.dll
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.dll
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\WinFormAnimation.dll
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.pdb
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.dll.config
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.pdb
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.dll.config
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\CircularProgressBar.xml
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.xml
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.AssemblyReference.cache
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserEntrance.resources
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Introduction.resources
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.SignUp.resources
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Main.resources
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Properties.Resources.resources
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlAddMeal.resources
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlCalcCalPage.resources
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlGeneralReport.resources
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlMainPage.resources
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlPersonalReport.resources
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlUpdateİnfo.resources
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.GenerateResource.cache
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CoreCompileInputs.cache
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CopyComplete
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.exe
+C:\Users\bused\Downloads\HarbiSorgularBittiBeslenMeSablon_260822_version_3\sorgularbittigibiBeslenMeSablon_260822_version_2\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.pdb
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserEntrance.resources
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Introduction.resources
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.SignUp.resources
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Main.resources
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Properties.Resources.resources
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlAddMeal.resources
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlCalcCalPage.resources
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlGeneralReport.resources
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlMainPage.resources
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlPersonalReport.resources
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlUpdateİnfo.resources
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.exe
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.pdb
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe.config
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.pdb
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\CircularProgressBar.dll
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.dll
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.dll
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\WinFormAnimation.dll
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.pdb
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.dll.config
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.pdb
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.dll.config
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\CircularProgressBar.xml
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\30_08_22\30.08.22\BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CopyComplete
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe.config
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.exe
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\BeslanMeSablon.pdb
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\CircularProgressBar.dll
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.dll
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.dll
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.dll
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\WinFormAnimation.dll
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.pdb
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Dal.dll.config
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.pdb
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\Data.dll.config
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\CircularProgressBar.xml
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.xml
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.AssemblyReference.cache
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserEntrance.resources
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Introduction.resources
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.SignUp.resources
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Main.resources
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.Properties.Resources.resources
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlAddMeal.resources
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlCalcCalPage.resources
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlGeneralReport.resources
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlMainPage.resources
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlPersonalReport.resources
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.UserControlUpdateİnfo.resources
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.GenerateResource.cache
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CoreCompileInputs.cache
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon_UI.csproj.CopyComplete
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.exe
+C:\Users\bused\OneDrive\Masaüstü\Teslim_BeslenMeSablon_300822_version_2 (1)\Teslim_BeslenMeSablon_240822_version_2\BeslanMeSablon\obj\Debug\BeslanMeSablon.pdb
